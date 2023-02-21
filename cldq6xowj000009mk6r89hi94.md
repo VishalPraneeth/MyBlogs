@@ -1,4 +1,4 @@
-# DevOps Project to Setup Infrastructure on AWS using Terraform
+# DevOps Project to Host a static website on AWS using Terraform automation.
 
 ### Problem statement:
 
